@@ -2,7 +2,7 @@
 //false
 //0;
 //"";
-//undefine;
+//undefined;
 //null;
 //Nan
 //Truthy value
