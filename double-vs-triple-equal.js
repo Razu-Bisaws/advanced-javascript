@@ -1,6 +1,6 @@
 const first = 0;
 const second = false;
-if(first === second){
+if(first == second){
     console.log("condition is true");
 }
 else{
